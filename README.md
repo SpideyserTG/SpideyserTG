@@ -10,7 +10,7 @@
 I'am [SpideySerTG](https://github.com/SpideySerTG) 😁
 
 * 📚 Student
-* 👨‍💻 Noob Developer
+* 👨‍💻 Pro Developer
 * 🗨️ Telegram Expert
 * 🤖 TG Bot Expert
 * 😘 Telegram Is My Favourite
