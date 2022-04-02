@@ -29,13 +29,13 @@ I'am [SpideySerTG](https://github.com/SpideySerTG) 😁
 <b>
 </p>
 <p align="center">
-<a href="https://t.me/StarkBotz">
-    &nbsp;<img src="https://img.shields.io/badge/StarkBotz-Channel-red?style=flat-square&logo=telegram" width="300" height="50">&nbsp;
+<a href="https://t.me/SpideyBots">
+    &nbsp;<img src="https://img.shields.io/badge/SpideyBots-Channel-red?style=flat-square&logo=telegram" width="300" height="50">&nbsp;
 </a>
 </p>
 <p align="center">
-<a href="https://t.me/Starkbotz_supportgroup">
-    &nbsp;<img src="https://img.shields.io/badge/StarkBotz-Group-red?style=flat-square&logo=telegram" width="300" height="50">&nbsp;
+<a href="https://t.me/SpideyBots_supportgroup">
+    &nbsp;<img src="https://img.shields.io/badge/SpideyBots-Group-red?style=flat-square&logo=telegram" width="300" height="50">&nbsp;
 </a>
 </p>
 
@@ -45,14 +45,6 @@ I'am [SpideySerTG](https://github.com/SpideySerTG) 😁
 
 <p align="middle">
 <img src="https://badgen.net/badge/Name/SpideySer/FF1000FF?icon=awesome&labelColor=0080FF"></a>
-
-- 🔭 I’m currently working on - Auto Filter Bots
-- 📚 I’m currently learning - Python
-- 🤔 I’m looking for help with - Editing Repos
-- ❓️ Ask me about - Anything Related To Telegram
-- 🤣 Fun fact - I am a bot dev and still doesn't know to edit repos 🙃
--->
-
 
 <p align="center">
   <a href="https://t.me/Spidey_Ser_Official">
